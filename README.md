@@ -5,6 +5,7 @@
 ## 📄 Career
 
 - [탐색 모듈 개발](./experiences/experience-01-navigation-module.md)
+- [버스 단말기 개발](./experiences/experience-02-bus-terminal.md)
 
 ## 🛠 Skills
 
@@ -13,4 +14,3 @@
 ## 🚀 Projects
 
 ## 📑 PDF
-
