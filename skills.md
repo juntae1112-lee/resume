@@ -8,25 +8,21 @@
 - Jetpack Compose
 - Navigation Compose
 - Hilt
+- Android Activity / Service 기반 앱 구조
 - MVI / MVVM
 
-## Backend / Data
+## Project Experience
 
-- Supabase Auth / PostgREST
-- Ktor Client
-- PostgreSQL
-- SQL Migration
-- DTO / Domain Model Mapping
+- Supabase Auth 연동 경험
+- Mapbox 기반 지도 화면 구성 경험
+- 프로필·동네 데이터 구조 설계 경험
 
 ## C++ / Embedded
 
 - C++
-- Qt
-- QML
-- Linux
-- IPC
-- RS-232
-- I2C / GPIO
+- Qt / QML
+- Linux 기반 단말기 애플리케이션 개발
+- 프로세스 간 통신 및 외부 장치 연동 경험
 
 ## Architecture
 

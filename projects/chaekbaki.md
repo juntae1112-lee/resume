@@ -4,7 +4,7 @@
 
 진행 중
 
-**Kotlin, Jetpack Compose, Coroutine, StateFlow, Hilt, Navigation Compose, Supabase, Ktor, Mapbox**
+**Kotlin, Jetpack Compose, Coroutine, StateFlow, Hilt, Navigation Compose, Supabase, Mapbox**
 
 ---
 
@@ -18,7 +18,7 @@
 
 - Compose 기반 화면과 ViewModel을 MVI 구조로 구성
 - 사용자 액션을 Intent로 받고, 화면 상태는 State, 일회성 이벤트는 Effect로 분리
-- Feature UI, Presentation, Domain, Data 계층을 나누고 기능 간 의존은 공통 Domain 계약을 통해 연결
+- feature별 UI, Presentation, Domain, Data 패키지 구조를 나누고 기능 간 의존은 공통 Domain 계약을 통해 연결
 - AppNavHost에서 feature별 NavGraph를 조립하고, 각 feature가 자신의 화면 흐름을 소유하도록 구성
 
 ### 기술적 의사결정
@@ -42,6 +42,6 @@
 
 ### 안정성 및 예외 처리
 
-- Supabase/PostgREST 오류를 도메인 예외로 변환해 UI가 외부 SDK 오류를 직접 알지 않도록 처리
+- Supabase 연동 오류를 도메인 예외로 변환해 UI가 원본 오류를 직접 알지 않도록 처리
 - 세션 만료, 권한 거부, 네트워크 오류를 사용자 행동 기준 메시지로 분리
 - 동네 저장 실패 시 진행 상태를 닫고 drawer를 다시 열어 재시도 가능한 흐름으로 복구

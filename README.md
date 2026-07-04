@@ -5,7 +5,7 @@ Kotlin 기반 Android 모듈 개발과 C++ 기반 차량·단말기 소프트웨
 ## 📄 Career
 
 - [탐색 모듈 개발](./experiences/experience-01-navigation-module.md)
-- [버스 단말기 개발](./experiences/experience-02-bus-terminal.md)
+- [차량·교통 단말기 개발](./experiences/experience-02-bus-terminal.md)
 
 ## 🛠 Skills
 
