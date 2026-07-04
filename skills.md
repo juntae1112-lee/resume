@@ -33,6 +33,12 @@
 - MVC / MVVM / MVI
 - 모듈화 및 코드 리뷰
 
+## AI-assisted Development
+
+- Claude CLI, GitHub Copilot, ChatGPT, Codex를 코드 작성 보조, 리팩터링 검토, 문서화에 활용
+- 플랫폼 사양, 버그 분석 양식, 코드 레벨 시퀀스를 정리해 탐색 모듈 버그 분석에 AI 도구 활용
+- AI 분석 결과는 로그, 코드 흐름, 재현 조건을 기준으로 직접 검증
+
 ## Tools
 
 - Git
