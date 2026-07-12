@@ -22,5 +22,3 @@ Kotlin 기반 Android 모듈 개발과 C++ 기반 차량·단말기 소프트웨
 ## 🚀 Projects
 
 - [책바퀴 - 동네 기반 책 교환 Android 앱](./projects/chaekbaki.md)
-
-## 📑 PDF
