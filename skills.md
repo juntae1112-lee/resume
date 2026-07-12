@@ -32,6 +32,7 @@
 - Feature-based 구조 설계
 - MVC / MVVM / MVI
 - 모듈화 및 코드 리뷰
+- 설계 의사결정 기록 및 기술 글쓰기
 
 ## AI-assisted Development
 
